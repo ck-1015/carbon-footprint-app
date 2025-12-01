@@ -1,0 +1,100 @@
+item,kgCO2e_per_kg,source
+Beef (general),28,GoClimate
+Chicken,3.3,GoClimate
+Pork,7,GoClimate
+Lamb,24,SciFood
+Turkey,3.1,SciFood
+Salmon (farmed),4.15,SciFood
+White fish,2.2,SciFood
+Shrimp (farmed),9.1,Wolfram
+Eggs,4.7,IELA
+Whole milk,1.37,SciFood
+Skim milk,1.2,SciFood
+Cheese (semi-hard),8.5,SciFood
+Cheddar cheese,9.8,GoClimate
+Yogurt,2.2,Wolfram
+Butter,11.5,Wolfram
+Cream,9,SciFood
+Tofu,3.16,IELA
+Tempeh,2.1,Wolfram
+Oat milk,0.9,Wolfram
+Soy milk,0.8,Wolfram
+Almond milk,1.2,Wolfram
+Rice milk,1,Wolfram
+White rice,4.45,SciFood
+Brown rice,3.5,Wolfram
+Quinoa,1.5,Wolfram
+Wheat flour,0.67,SciFood
+Wheat bread,0.94,SciFood
+Pasta (dry),1.7,SciFood
+Oat flakes,0.92,SciFood
+Corn flour,1,Wolfram
+Buckwheat,0.8,Wolfram
+Lentils,0.71,SciFood
+Chickpeas,0.79,SciFood
+Black beans (dry),0.75,SciFood
+Kidney beans (dry),0.72,SciFood
+Peas (dry),0.6,Wolfram
+Peanuts,2.4,Wolfram
+Almonds,2.3,Wolfram
+Hazelnuts,1.4,Wolfram
+Cashews,2.8,Wolfram
+Sunflower seeds,1.1,Wolfram
+Potatoes,0.2,SciFood
+Sweet potatoes,0.35,SciFood
+Carrots,0.25,SciFood
+Onions,0.33,SciFood
+Tomatoes (fresh),1.4,SciFood
+Tomatoes (greenhouse),2.5,Wolfram
+Cucumbers,0.7,SciFood
+Peppers,1.8,Wolfram
+Spinach,0.45,SciFood
+Lettuce,0.8,Wolfram
+Broccoli,0.6,SciFood
+Cauliflower,0.55,SciFood
+Cabbage,0.3,SciFood
+Zucchini,0.5,Wolfram
+Eggplant,0.7,Wolfram
+Apples,0.44,SciFood
+Bananas,0.81,SciFood
+Oranges,0.94,SciFood
+Grapes,1.1,SciFood
+Blueberries,1.5,Wolfram
+Strawberries,1.3,Wolfram
+Raspberries,1.8,Wolfram
+Avocado,2.5,GoClimate
+Mangoes,1.1,Wolfram
+Pineapple,0.9,Wolfram
+Peaches,0.8,Wolfram
+Pears,0.45,Wolfram
+Melon,0.6,Wolfram
+Coffee (beans),17,Wolfram
+Tea (black),3.2,Wolfram
+Cocoa powder,5.4,Wolfram
+Chocolate (dark),6.6,GoClimate
+Sugar (white),0.8,SciFood
+Olive oil,5,GoClimate
+Canola oil,3,Wolfram
+Soybean oil,3.3,Wolfram
+Butter,11.5,SciFood
+Margarine,3.4,Wolfram
+Breakfast cereal,1.7,SciFood
+Granola,2.4,Wolfram
+French fries (frozen),2,Wolfram
+Pizza (frozen),3.8,Wolfram
+Breaded chicken (frozen),4,Wolfram
+Tofu sausage,2.8,Wolfram
+Plant-based burger,3.5,GoClimate
+Beef burger (regular),27,GoClimate
+Sausages (pork),7.5,SciFood
+Ham,5,SciFood
+Bacon,9,Wolfram
+Ice cream,2.8,Wolfram
+Chips (potato),2.7,Wolfram
+Crackers,1.2,Wolfram
+Soup (canned),1.1,Wolfram
+Pasta sauce (jar),1.3,Wolfram
+Hummus,2,Wolfram
+Peanut butter,2.5,Wolfram
+Jam,1.1,Wolfram
+Zucchini,0.35,Our World in Data
